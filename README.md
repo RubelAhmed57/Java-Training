@@ -16,19 +16,19 @@ OOPS is concept or statement which says any computer programming language will b
 3. Inheritance
 
 ## Some definition:
-Code: Lines in a function
++ Code: Lines in a function
 
-Statement: every lines ending with ";"
+- Statement: every lines ending with ";"
 
-Class: Every thing we do in java, we must do it inside a class.
+- Class: Every thing we do in java, we must do it inside a class.
 
-Function/Method/"()": A block of code serves for specific purpose, must have return anything(value/null)
+- Function/Method/"()": A block of code serves for specific purpose, must have return anything(value/null)
 
-Procedure: Acts like function but doesnot return anything.
+- Procedure: Acts like function but doesnot return anything.
 
-Interpretor: Which check code line by line.
+- Interpretor: Which check code line by line.
 
-Compiler: Which checks entire source code syntax and semantics.
+- Compiler: Which checks entire source code syntax and semantics.
 
-JVM(java virtual machine): Is an interpretor of byte code for OS.
+- JVM(java virtual machine): Is an interpretor of byte code for OS.
 
