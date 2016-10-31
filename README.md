@@ -32,3 +32,7 @@ OOPS is concept or statement which says any computer programming language will b
 
 - JVM(java virtual machine): Is an interpretor of byte code for OS.
 
+##How java achieves security and portability?
+
+Ans: After compiling java produces byte code, which is highly optimized binary code, that is portable and unreadable, but can produce programmer's intended output.
+
