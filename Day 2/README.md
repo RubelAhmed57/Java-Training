@@ -1,7 +1,7 @@
 #Data types in Java
 ##What is data type?
 
-Ans: Requires bytes of storage for data or unit of data measurement
+**Ans**: Required bytes of memory for data or unit of data measurement
 
 ##Primitive Data Types(from oracle documentation)
 
