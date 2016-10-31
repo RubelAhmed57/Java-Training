@@ -8,6 +8,7 @@ to run java code from command line
 --> java className
 ## OOPS (Object Oriented Programming System):
 OOPS is concept or statement which says any computer programming language will be its sub domain if it contains the Object Oriented features:
+
 1. Encapsulation 
 
 2. Polymorphism
